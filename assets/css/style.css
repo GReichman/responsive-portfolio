@@ -1,5 +1,5 @@
 body{
-    background-image: url('assets/pictures/hotel-wallpaper-black.png');
+    background-image: url('../pictures/hotel-wallpaper-black.png');
     font-family: 'Alata', sans-serif;
 }
 
@@ -55,4 +55,12 @@ body{
     margin-top:20px;
     margin-left:10px;
     font-size:20px;
+}
+
+.inputNames{
+    color:white;
+}
+
+.contactContent{
+    padding:15px;
 }
