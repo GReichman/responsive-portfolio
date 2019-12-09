@@ -11,8 +11,37 @@ body{
  #bioContentCol{
      color:white;
      margin-top:6rem;
+     background-color: rgba(0,0,0,.5);
+     padding:3px;
  }
- #body{
+
+ .portfolioPictures{
+     max-height:200px;
+     max-width: 400px;
+ }
+
+ #portfolioHeader{
+     color:white;
+     margin-bottom:30px;
+     margin-left: 10px;
+ }
+ #portfolioContent{
+    margin-left:10px;
+ }
+ #portfolioContainer{
+    background-color: rgba(0,0,0,.5);
+
 
  }
 
+ .portfolioLinks{
+     text-decoration: none;
+     color:white;
+ }
+ .portfolioLinks:hover{
+    text-decoration: none;
+    color:white;
+}
+.portfolioColumns{
+    margin-bottom:20px;
+}
