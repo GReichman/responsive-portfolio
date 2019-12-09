@@ -1,5 +1,6 @@
 body{
     background-image: url('assets/pictures/hotel-wallpaper-black.png');
+    font-family: 'Alata', sans-serif;
 }
 
 
@@ -10,7 +11,7 @@ body{
   }
  #bioContentCol{
      color:white;
-     margin-top:6rem;
+     
      background-color: rgba(0,0,0,.5);
      padding:3px;
  }
@@ -25,12 +26,16 @@ body{
      margin-bottom:30px;
      margin-left: 10px;
  }
+ #aboutHeader{
+     color:white;
+     margin-left:10px;
+ }
  #portfolioContent{
     margin-left:10px;
  }
- #portfolioContainer{
+ .contentContainer{
     background-color: rgba(0,0,0,.5);
-
+    margin-top:6rem;
 
  }
 
@@ -44,4 +49,10 @@ body{
 }
 .portfolioColumns{
     margin-bottom:20px;
+}
+
+#aboutBody{
+    margin-top:20px;
+    margin-left:10px;
+    font-size:20px;
 }
