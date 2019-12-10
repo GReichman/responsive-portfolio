@@ -42,10 +42,12 @@ body{
  .portfolioLinks{
      text-decoration: none;
      color:white;
+     text-align:center
  }
  .portfolioLinks:hover{
     text-decoration: none;
     color:white;
+   
 }
 .portfolioColumns{
     margin-bottom:20px;
