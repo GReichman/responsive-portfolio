@@ -17,8 +17,10 @@ body{
  }
 
  .portfolioPictures{
-     max-height:200px;
-     max-width: 400px;
+     height:200px;
+      max-width: 300px; 
+     width: 100%;
+    object-fit: cover;
  }
 
  #portfolioHeader{
